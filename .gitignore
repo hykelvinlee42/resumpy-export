@@ -1,0 +1,8 @@
+*.tex
+*.pdf
+cover-letter/*
+
+!cv/*.tex
+!cv/*.pdf
+!resume/*.tex
+!resume/*.pdf
