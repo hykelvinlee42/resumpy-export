@@ -1,6 +1,7 @@
 *.tex
 *.pdf
 cover-letter/*
+archive/*
 
 !cv/*.tex
 !cv/*.pdf
